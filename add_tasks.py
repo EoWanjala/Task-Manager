@@ -1,6 +1,10 @@
 import json
 
+<<<<<<< HEAD
 TASKS_FILE = "tasks.json"
+=======
+TASKS_FILE = "tasks.json"
+>>>>>>> feature/delete-tasks
 
 def load_tasks():
     """Load tasks from the JSON file."""
